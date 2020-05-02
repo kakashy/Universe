@@ -1,0 +1,6 @@
+.giant {
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+    padding-top: 1rem;
+}
